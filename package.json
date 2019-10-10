@@ -5,7 +5,7 @@
   "main": "index.ls",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "./node_modules/.bin/lsc index.ls"
+    "start": "./node_modules/.bin/lsc index.ls"
   },
   "keywords": [],
   "author": "lesh <lesh@sysphere.org> (http://lesh.sysphere.org)",
